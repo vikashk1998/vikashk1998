@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vikas H K</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Dev, QA and DevOps Engineer</h3>
 
 ---
 
